@@ -296,6 +296,7 @@
    if([self totalPositioned]==15)
    {
       scrambled = NO;
+      
       //[self display];
       // Replacement for
       // NSRunAlertPanel(@"Congratulations!", @"Puzzle solved", @"OK", nil, nil)
